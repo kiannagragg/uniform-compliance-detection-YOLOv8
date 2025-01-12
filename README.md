@@ -1,4 +1,4 @@
-# uniform-compliance-detection-YOLOv8
+# Real-time-Uniform-Compliance-Detection-YOLOv8
 This is the source code for the University Uniform Compliance Detection System, as described in the paper ["FitCheck: Real-time University Uniform Compliance Detection using YOLOv8"] by Kianna Alexandra L. Gragg, Aubrey D. Ragandan, and Dianne Y. Taguibao. The software employs the YOLOv8 algorithm to analyze real-time video footage captured by a camera, enabling it to determine whether students at Technological University of the Philippines-Manila (TUP-Manila) are wearing complete or incomplete uniforms.
 
 ## Summary
